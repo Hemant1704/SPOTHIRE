@@ -1,4 +1,4 @@
-# SPOTHIRE
+<h1 align = "center">SPOTHIRE</h1>
 <b>A web portal which helps to understand the placement scenario and ease of conducting it</b>. It will contain two separate <b>logins for student and and the
 HR</b>. After logging in a student will have the choices like see the different aspects and information about different companies. Even a company <b>HR will be provided with some filters to filter
 the students according to his criteria and requirement of the
@@ -60,3 +60,28 @@ Minimum cgpa of 8.5<br>
 Applied for web developer<br>
 College - VIT VELLORE<br>
 <img src = "https://github.com/Hemant1704/SPOTHIRE/blob/main/images/hr_results.JPG"><br>
+
+## FILTERS FOR STUDENT
+After login the <b>student will have filters to view the information about the companies post and hr according to the choices he/she selects.</b><br>
+Filters for student:<br>
+1.Select company and see the posts they are hiring from.<br>
+2.Enter the minimum salary you expect and see the companies offering more salary than that.<br>
+3.Select post and see the HR information who is going to hire you.<br><br>
+<img src = "https://github.com/Hemant1704/SPOTHIRE/blob/main/images/student_area.JPG" height = 450px width = 1000px><br>
+### Displaying information based on student filters.
+Suppose <b>student wants to see the posts amazon is hiring for</b>. The stduent selects amazon in the first filter.<br>
+The following result will be shown<br><br>
+<img src = "https://github.com/Hemant1704/SPOTHIRE/blob/main/images/student_results.JPG">
+
+# CONCLUSION
+We have successfully developed a web application which helps
+the students as well as Hr during the placement season. Instead 
+of filling the google forms multiple times for different
+companies, it will require the students to just enter their details
+and resume one time and also keep them updated with the
+companies coming to the campus and the posts and ctc they are
+offering.
+Similarly the HR will not need to sort students manually, our
+portal will provide the HR with several filters he can apply and
+sort out the students and then view their resumes separately
+which makes this process easy and time efficient.
